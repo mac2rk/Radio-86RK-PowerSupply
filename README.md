@@ -1,6 +1,8 @@
-# USB powered Radio-86RK (even from a power bank)
+# USB powered Radio-86RK (even from a power bank!)
 
 Compact DC/DC converter to power i8080 and other vintage NMOS ICs from USB.
+
+![USB power supply for Radio-86RK](images/rk86-psu-img.jpg)
 
 Intel i8080 CPU, MK4116 DRAM, NTE2708 EPROM and similar NMOS ICs from 1970s require three power supply voltages: +12V, -5V and +5V.
 
